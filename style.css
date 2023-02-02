@@ -5,7 +5,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url('https://img.freepik.com/free-vector/pastel-ombre-background-pink-purple_53876-120750.jpg');
+    background: url('https://wallpapers.com/images/hd/gradient-sky-pastel-purple-tumblr-nd26s94ngaget30l.jpg');
     background-size: cover;
     background-attachment: fixed;
 }
@@ -20,16 +20,20 @@ body{
     
    
 }
+.heading{
+    text-shadow: 2px 2px 5px rgb(89, 62, 5);
+}
 .terms-box{
+    box-shadow:#8d0d0d;
     max-width: 460px;
-    background-color: rgba(244, 15, 15, 0.1);
+    background-color: rgba(1, 14, 10, 0.1);
     color: #fff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 0 20px;
     height: 400px;
     overflow-y: auto;
     font-size: 14px;
-    opacity:4;
+    
     border-color:#282828;
 }
 .terms-text{
